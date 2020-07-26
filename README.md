@@ -3,7 +3,7 @@
 
 ## Firstly, the control panel was designed on App Inventor website
 
-  ![](Website%20Design%20Screenshot.jpg)
+  ![](Screenshots/Website%20Design%20Screenshot.jpg)
 
 
 
