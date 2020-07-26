@@ -37,3 +37,6 @@ As it understands few questions like: Hi/Hello, How are you?, What's your name? 
 ## Or by using this link
 
 http://ai2.appinventor.mit.edu/b/7qj3
+
+## Or you can even download the aia uploaded file and import it from App Inventor website for full experience :)
+
