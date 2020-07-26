@@ -28,7 +28,9 @@
   ![](Android%20Device%20Screenshot%202.jpg)
 
 
-## You can download the apk app from this barcode
+
+
+## You can download the Apk app from this barcode
 ![](Apk%20Barcode%20Link.gif)
 
 ## Or by using this link
