@@ -31,7 +31,7 @@ As it understands few questions like: Hi/Hello, How are you?, What's your name? 
 
 
 
-## I'd love you to download the Apk app from the barcode and try it!
+## I'd love you to download the Apk app from the barcode below and try it!
   ![](Apk%20Barcode%20Link.gif)
 
 ## Or by using this link
