@@ -9,6 +9,7 @@
 
 
 ## Then, Blocks were used as a coding method
+As it understands few questions like: Hi/Hello, How are you?, What's your name? and it opens the camera if you say a sentence including the word camera.
 
   ![](Website%20Blocks%20Screenshot%201.jpg)
  
