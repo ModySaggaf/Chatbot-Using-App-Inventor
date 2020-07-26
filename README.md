@@ -10,9 +10,9 @@
 
 ## Then, Blocks were used as a coding method
 
-  ![](Website%20Blocks%20Screenshot1.jpg)
+  ![](Website%20Blocks%20Screenshot%201.jpg)
  
-  ![](Website%20Blocks%20Screenshot2.jpg)
+  ![](Website%20Blocks%20Screenshot%202.jpg)
  
  
  
